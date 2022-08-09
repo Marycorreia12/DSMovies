@@ -22,6 +22,6 @@
     "baseUrl": "./src" 
   },
   "include": [
-    ["src/components", "src/custom.d.ts"]
+    "src/components", "src/custom.d.ts",
   ]
 }
